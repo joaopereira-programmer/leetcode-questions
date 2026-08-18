@@ -1,6 +1,7 @@
 # Valid Parentheses
 
 **Difficulty:** Easy
+
 **Link:** https://leetcode.com/problems/valid-parentheses/
 
 ## Descrição
