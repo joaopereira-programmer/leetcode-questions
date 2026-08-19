@@ -15,10 +15,6 @@ Each problem is organized in its own directory and contains:
 ```text
 leetcode-questions/
 │
-├── 0001-two-sum/
-│   ├── README.md
-│   └── solution.py
-│
 ├── 0014-longest-common-prefix/
 │   ├── README.md
 │   └── solution.py
@@ -46,8 +42,11 @@ leetcode-questions/
 ### Algorithms & Patterns
 
 * Two Pointers
+* Sliding Window
 * Binary Search
 * BFS / DFS
+* Backtracking
+* Greedy
 * Dynamic Programming
 * Sorting
 
