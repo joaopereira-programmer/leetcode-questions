@@ -1,6 +1,6 @@
 # LeetCode — Problem Solving
 
-A collection of my solutions to **LeetCode problems**, implemented in **Java and Python**.
+A collection of my solutions to **LeetCode problems**, implemented in **Python**.
 
 This repository documents my practice in **algorithms, data structures, problem-solving, and complexity analysis**.
 
@@ -10,20 +10,21 @@ Each problem is organized in its own directory and contains:
 
 * A short explanation of the approach
 * Time and space complexity
-* Java implementation
 * Python implementation
 
-```text id="4v2c7n"
+```text
 leetcode-questions/
 │
 ├── 0001-two-sum/
 │   ├── README.md
-│   ├── solution.java
 │   └── solution.py
 │
 ├── 0014-longest-common-prefix/
 │   ├── README.md
-│   ├── solution.java
+│   └── solution.py
+│
+├── 0020-valid-parentheses/
+│   ├── README.md
 │   └── solution.py
 │
 └── ...
@@ -38,6 +39,7 @@ leetcode-questions/
 * Stacks
 * Queues
 * Linked Lists
+* Trees
 * Heaps
 * Graphs
 
@@ -54,11 +56,6 @@ leetcode-questions/
 Solutions include **time and space complexity analysis** whenever relevant.
 
 The focus is not only on obtaining an accepted solution, but on understanding the underlying approach, trade-offs, and algorithmic complexity.
-
-## Languages
-
-* Java
-* Python
 
 ---
 
